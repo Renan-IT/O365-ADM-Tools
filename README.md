@@ -35,7 +35,12 @@ Microsoft Graph Toolkit : https://mgt.dev/ \
 Microsoft Service health status `Microsoft 365, Azure, Power Platform` : https://status.office.com/ \
 Microsoft 365 Service health status : https://portal.office.com/ServiceStatus \
 Microsoft 365 Service health status `Admin portal` : https://admin.microsoft.com/AdminPortal/Home#/servicehealth 
-## Microsoft Powershell Cmdlets
-	Connect-ExchangeOnline
- 	Connect-AzureAD
+## Microsoft PowerShell Cmdlets
+| PowerShell Module | Cmdlet |
+|:------ | -------:|
+| Exchange Online PowerShell | `Connect-ExchangeOnline` |
+| Security & Compliance PowerShell | `Connect-IPPSSession` |
+| Azure Active Directory Powershell | `Connect-AzureAD` |
+| MicrosoftTeams PowerShell | `Connect-MicrosoftTeams` |
+| Azure PowerShell | `Connect-AzAccount` |
 * * *
