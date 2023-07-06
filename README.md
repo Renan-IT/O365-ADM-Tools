@@ -43,6 +43,10 @@ Microsoft 365 Service health status `Admin portal` : https://admin.microsoft.com
 | MicrosoftTeams PowerShell | `Connect-MicrosoftTeams` |
 | Azure PowerShell | `Connect-AzAccount` |
 * * *
-## Usefull/Related Tools for Admins
+## Usefull/Related 3rd party tools for M365 Admins
 Messaging Lookup tools : https://mxtoolbox.com \
-Message Header Analyzer : https://mha.azurewebsites.net
+Message Header Analyzer : https://mha.azurewebsites.net \
+Microsoft 365 Licensing Diagrams : https://m365maps.com \
+Office 365 ATP Safe Links Decoder : https://o365atp.com \
+Microsoft Portals access via browser's address bar : https://cmd.ms \
+List all of Microsoft’s portals : https://msportals.io
