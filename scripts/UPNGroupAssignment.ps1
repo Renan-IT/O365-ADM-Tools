@@ -1,8 +1,8 @@
 <# 
-Synopsis:
+.SYNOPSIS
 This PowerShell script automates the process of adding users to a specified group based on their email addresses.
 
-Description:
+.DESCRIPTION
 The script accomplishes the following steps:
 
 1. Group Name Definition:
